@@ -1,6 +1,6 @@
 # Computer-vision_library_embedded-system
 
-
+# *It is a work in progress, it is not in complete
 #  Aim and Scope of the project (in terms of specific physical achievement)
 
 For the subsystems described in the summary sheet 7a, the aim is to provide algorithmic descriptions,
