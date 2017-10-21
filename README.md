@@ -262,7 +262,8 @@ provide information about the relative positions of various gray levels within t
 considering the gray levels at the two extremities of a randomly dropped line of varying length and
 orientation. The four transformations listed for first-order statistics measure is applicable also here.
 
-References
+# References
+
 1.
  Stamatios Lefkimmiatis, Aurac lien Bourquard, and Michael Unser. Hessian Based Norm Regularization
 for Image Restoration With Biomedical Applications. IEEE Tran. Image Processing March 2012 ; 21.
